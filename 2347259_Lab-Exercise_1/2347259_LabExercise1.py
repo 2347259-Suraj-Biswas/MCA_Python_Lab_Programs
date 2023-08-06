@@ -7,7 +7,7 @@ domain = "Blood Bank Management System"
 about_data = f"""
 Hi my name is {name} , I am currently pursuing a PG course in {course} for the academic year {year}-2024 . 
 My student regno is {regno} . 
-As part of my postgraduate studies , I have chosen the domain of Blood Bank Management System . 
+As part of my postgraduate studies , I have chosen the domain of {domain} . 
 The primary objective of this system is to streamline and enhance the operations of blood banks by incorporating efficient data management ,  
 donor and recipient information tracking , inventory management , and real-time availability updates . 
 This system proves to be immensely beneficial as it optimizes the process of blood collection , storage , and distribution , 
