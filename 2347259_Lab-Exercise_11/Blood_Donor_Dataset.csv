@@ -1,0 +1,251 @@
+Donor_ID,Age,Gender,Blood_Type,Donation_Date,Donation_Location,Hemoglobin_Level,Blood_Pressure,Pulse_Rate,Temperature,Weight,Height,BMI,Medical_Condition,Donation_Type,Donation_Quantity,Donation_Result,Iron_Level,Cholesterol_Level,Donation_Frequency,Previous_Diseases,Smoking_History,Alcohol_Consumption,Exercise_Habits,Diet_Type
+1,32,Male,A+,2023-01-15, City Hospital    ,14.2, 120/80        ,72,98.6,160,175,23, None             , Whole Blood  ,450, Successful     ,13.5,170, Once per year    , None            , No            , Occasional        , Regular        , Balanced 
+2,28,Female,O-,2023-02-10, Red Cross Center ,13.8, 110/70        ,75,98.2,140,162,21, None             , Platelets    ,300, Successful     ,12.8,150, Twice per year   , Asthma          , Yes           , Rarely            , Irregular      , Vegetarian
+3,42,Male,B+,2023-03-20, Community Center,15, 130/85        ,80,98.8,175,180,26, Hypertension     , Whole Blood  ,500, Successful     ,14.2,190, Once per year    , Diabetes        , No            , Occasionally      , Regular        , Mediterranean
+4,23,Female,A-,2023-04-05, City Hospital    ,12.5, 115/75        ,70,98,130,155,24, None             , Whole Blood  ,400, Rejected       ,11.7,140, Once every 6 mos, None            , No            , Rarely            , Regular        , Balanced 
+5,34,Male,AB+,2023-05-12, Red Cross Center ,14.9, 125/80        ,74,99.1,168,178,25, None             , Whole Blood  ,450, Successful     ,13.8,180, Once per year    , None            , Yes           , Regularly         , Regular        , Balanced 
+6,29,Female,O+,2023-06-18, Community Center,13, 112/68        ,78,98.4,145,160,19, None             , Whole Blood  ,350, Successful     ,11.9,135, Twice per year   , None            , No            , Rarely            , Regular        , Vegetarian
+7,45,Male,A+,2023-07-02, City Hospital    ,14.5, 128/82        ,76,98.5,162,175,24, None             , Platelets    ,300, Rejected       ,13.2,165, Once per year    , None            , No            , Regularly         , Irregular      , Mediterranean
+8,31,Female,B-,2023-08-10, Red Cross Center ,12.9, 105/70        ,68,98.3,120,150,19, None             , Whole Blood  ,400, Successful     ,11.4,130, Once every 6 mos, None            , Yes           , Rarely            , Regular        , Balanced 
+9,38,Male,O-,2023-09-05, Community Center,13.7, 118/78        ,73,98.7,155,168,19, None             , Whole Blood  ,450, Successful     ,12.5,160, Once per year    , None            , No            , Occasionally      , Regular        , Vegetarian
+10,27,Female,AB-,2023-10-20, City Hospital    ,15.2, 130/85        ,79,98.9,170,175,24, None             , Whole Blood  ,500, Successful     ,14.6,185, Twice per year   , None            , No            , Regularly         , Irregular      , Mediterranean
+11,45,Male,O-,2023-11-15,Community Center,13.3,115/75,76,98.3,150,170,24,Diabetes,Whole Blood,450,Successful,12.7,155,Once per year,Asthma,No,Rarely,Regular,Mediterranean
+12,29,Female,AB-,2023-12-02,City Hospital,15.1,125/80,73,98.5,165,168,25,Anemia,Platelets,320,Successful,14,175,Once per year,High Blood Pressure,Yes,Occasionally,Regular,Vegetarian
+13,35,Male,A+,2024-01-10,Red Cross Center,14.6,120/78,75,98.2,160,178,24,High Blood Pressure,Whole Blood,500,Successful,13,190,Once every 6 mos,High Cholesterol,No,Regularly,Irregular,Regular
+14,27,Female,O+,2024-02-18,City Hospital,13.2,110/70,70,98,135,162,19,Anemia,Whole Blood,400,Rejected,11.5,140,Once per year,Diabetes,Yes,Rarely,Regular,Balanced
+15,40,Male,A-,2024-03-05,Community Center,14.8,128/82,78,98.6,162,175,24,None,Platelets,310,Successful,13.3,160,Twice per year,None,No,Occasionally,Regular,Regular
+16,33,Female,B-,2024-04-12,Red Cross Center,12.6,105/68,68,98.1,120,150,19,High Blood Pressure,Whole Blood,450,Successful,11.8,135,Once every 6 mos,High Cholesterol,Yes,Occasionally,Regular,Balanced
+17,50,Male,AB+,2024-05-20,City Hospital,15.5,130/85,80,98.9,180,185,26,Diabetes,Whole Blood,550,Successful,14.5,200,Once per year,None,Yes,Regularly,Irregular,Regular
+18,25,Female,O-,2024-06-08,Red Cross Center,12.8,112/70,72,98.2,125,158,20,None,Whole Blood,350,Successful,11.6,130,Twice per year,High Blood Pressure,No,Rarely,Regular,Vegetarian
+19,37,Male,AB+,2024-07-15,City Hospital,14.3,120/75,74,98.4,165,175,24,None,Platelets,330,Successful,13.2,170,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+20,30,Female,B+,2024-08-22,Community Center,13.9,118/76,77,98.5,150,162,19,High Blood Pressure,Whole Blood,420,Successful,12.6,155,Once every 6 mos,High Cholesterol,Yes,Regularly,Regular,Balanced
+21,43,Female,AB+,2024-09-10,Red Cross Center,14.4,122/78,75,98.3,155,160,21,High Cholesterol,Whole Blood,460,Successful,13.3,180,Once per year,None,No,Occasionally,Regular,Mediterranean
+22,26,Male,O-,2024-10-15,City Hospital,13.1,108/70,71,98.1,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+23,36,Female,A+,2024-11-20,Community Center,14.7,127/80,78,98.4,158,165,21,None,Platelets,310,Successful,13.6,175,Once per year,Diabetes,No,Regularly,Irregular,Regular
+24,29,Male,B+,2025-01-05,Red Cross Center,14.2,118/74,76,98.5,160,172,24,None,Whole Blood,430,Successful,13.0,170,Once every 6 mos,None,Yes,Rarely,Regular,Balanced
+25,39,Female,O+,2025-02-12,City Hospital,12.5,105/68,70,98.0,130,158,20,Anemia,Whole Blood,360,Rejected,10.8,120,Once per year,High Blood Pressure,Yes,Rarely,Regular,Balanced
+26,44,Male,AB-,2025-03-25,Community Center,15.0,129/82,77,98.2,175,178,23,None,Whole Blood,470,Successful,13.9,185,Twice per year,None,Yes,Occasionally,Regular,Regular
+27,32,Female,A-,2025-04-02,Red Cross Center,13.3,112/70,73,98.6,145,163,19,Anemia,Platelets,320,Successful,12.6,145,Once per year,None,Yes,Rarely,Regular,Balanced
+28,48,Male,B-,2025-05-12,City Hospital,14.9,125/80,75,98.4,162,172,24,None,Whole Blood,450,Successful,13.5,180,Once every 6 mos,High Blood Pressure,Yes,Occasionally,Regular,Mediterranean
+29,31,Female,AB+,2025-06-18,Community Center,14.1,117/76,74,98.2,152,160,21,None,Whole Blood,420,Successful,12.9,155,Once per year,High Cholesterol,No,Regularly,Regular,Balanced
+30,42,Male,O-,2025-07-25,Red Cross Center,12.8,109/72,69,98.1,138,158,22,None,Whole Blood,390,Successful,11.7,140,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+31,37,Female,A+,2025-08-02,City Hospital,14.5,124/78,76,98.4,157,163,23,Diabetes,Platelets,330,Successful,13.2,175,Once per year,None,No,Occasionally,Regular,Mediterranean
+32,28,Male,B+,2025-09-10,Community Center,13.9,116/74,72,98.5,150,167,21,None,Whole Blood,410,Successful,12.7,165,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Vegetarian
+33,49,Female,O+,2025-10-18,Red Cross Center,13.7,115/70,71,98.2,144,158,20,None,Whole Blood,380,Successful,12.1,150,Once per year,High Cholesterol,Yes,Regularly,Regular,Balanced
+34,30,Male,AB+,2025-11-05,City Hospital,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once every 6 mos,None,No,Occasionally,Regular,Mediterranean
+35,35,Female,A-,2025-12-12,Community Center,13.2,110/72,74,98.1,136,155,20,Anemia,Whole Blood,360,Successful,11.9,130,Once per year,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+36,41,Male,B-,2026-01-20,Red Cross Center,15.3,130/85,79,98.9,180,185,25,High Blood Pressure,Whole Blood,470,Successful,14.2,190,Once per year,High Cholesterol,No,Regularly,Irregular,Regular
+37,27,Female,O-,2026-02-08,City Hospital,12.6,106/68,70,98.2,128,152,18,Anemia,Whole Blood,340,Successful,10.9,120,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Balanced
+38,38,Male,AB+,2026-03-15,Community Center,14.0,120/78,75,98.3,155,167,22,None,Platelets,320,Successful,13.0,170,Once per year,Diabetes,No,Regularly,Regular,Mediterranean
+39,33,Female,B+,2026-04-22,Red Cross Center,13.4,114/72,73,98.4,142,160,20,None,Whole Blood,390,Successful,12.2,150,Once every 6 mos,None,Yes,Rarely,Regular,Balanced
+40,47,Male,AB-,2026-05-05,City Hospital,15.1,128/82,78,98.6,165,175,24,None,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Regular
+41,32,Male,A+,2026-06-12,Community Center,14.2,120/80,72,98.7,160,175,23,None,Whole Blood,450,Successful,13.5,170,Once per year,Diabetes,No,Rarely,Regular,Balanced
+42,28,Female,O-,2026-07-25,Red Cross Center,13.8,110/70,75,98.2,140,162,21,None,Platelets,300,Successful,12.8,150,Once per year,High Blood Pressure,Yes,Occasionally,Regular,Mediterranean
+43,42,Male,B+,2026-08-10,City Hospital,15.0,130/85,80,98.9,175,180,26,High Blood Pressure,Whole Blood,500,Successful,14.2,190,Once every 6 mos,High Cholesterol,No,Regularly,Regular,Balanced
+44,23,Female,A-,2026-09-05,Community Center,12.5,115/75,70,98.0,130,155,24,Anemia,Whole Blood,400,Rejected,11.7,140,Once per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+45,34,Male,AB+,2026-10-20,Red Cross Center,14.9,125/80,74,98.1,168,178,25,None,Whole Blood,450,Successful,13.8,180,Once per year,None,No,Occasionally,Regular,Mediterranean
+46,29,Female,O+,2026-11-15,City Hospital,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,Yes,Rarely,Regular,Vegetarian
+47,45,Male,A+,2026-12-02,Community Center,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,None,No,Regularly,Regular,Mediterranean
+48,31,Female,B-,2027-01-05,Red Cross Center,12.9,105/70,68,98.3,120,150,19,None,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+49,38,Male,O-,2027-02-12,City Hospital,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+50,27,Female,AB-,2027-03-25,Community Center,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+51,46,Male,AB+,2027-04-02,Red Cross Center,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+52,25,Female,O+,2027-05-12,City Hospital,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+53,33,Male,B+,2027-06-18,Community Center,14.0,120/78,75,98.4,157,175,24,High Blood Pressure,Platelets,320,Successful,13.0,160,Once per year,Diabetes,Yes,Regularly,Irregular,Mediterranean
+54,39,Female,O-,2027-07-02,Red Cross Center,12.5,105/68,70,98.0,130,155,19,None,Whole Blood,360,Successful,11.0,140,Once per year,None,No,Occasionally,Regular,Balanced
+55,47,Male,A+,2027-08-10,City Hospital,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once per year,None,Yes,Regularly,Regular,Mediterranean
+56,30,Female,AB+,2027-09-05,Community Center,13.1,108/70,71,98.2,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+57,43,Male,B-,2027-10-15,Red Cross Center,14.7,127/80,78,98.4,158,165,21,None,Whole Blood,420,Successful,12.6,155,Once per year,High Cholesterol,No,Occasionally,Regular,Balanced
+58,26,Female,A+,2027-11-20,City Hospital,12.8,109/72,69,98.1,138,158,22,High Blood Pressure,Platelets,320,Successful,11.7,145,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+59,35,Male,AB+,2028-01-05,Community Center,14.4,120/78,75,98.3,155,167,22,None,Whole Blood,420,Successful,13.1,165,Once per year,Diabetes,Yes,Regularly,Regular,Mediterranean
+60,29,Female,O-,2028-02-12,Red Cross Center,13.3,112/70,73,98.5,144,160,21,Anemia,Whole Blood,400,Successful,12.5,150,Once every 6 mos,None,No,Rarely,Regular,Balanced
+61,36,Male,A+,2028-03-25,City Hospital,14.9,125/80,74,98.1,162,172,24,Anemia,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Mediterranean
+62,28,Female,O+,2028-04-02,Community Center,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,No,Rarely,Regular,Vegetarian
+63,45,Male,A-,2028-05-12,Red Cross Center,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,High Blood Pressure,Yes,Regularly,Regular,Mediterranean
+64,31,Female,B+,2028-06-18,City Hospital,12.9,105/70,68,98.3,120,150,19,Anemia,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+65,38,Male,O-,2028-07-02,Community Center,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+66,27,Female,AB-,2028-08-10,Red Cross Center,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+67,46,Male,AB+,2028-09-05,City Hospital,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+68,25,Female,O+,2028-10-20,Community Center,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+69,33,Male,B+,2028-11-15,Red Cross Center,14.0,120/78,75,98.4,157,175,24,High Blood Pressure,Platelets,320,Successful,13.0,160,Once per year,Diabetes,Yes,Regularly,Irregular,Mediterranean
+70,39,Female,O-,2028-12-02,City Hospital,12.5,105/68,70,98.0,130,155,19,None,Whole Blood,360,Successful,11.0,140,Once per year,None,No,Occasionally,Regular,Balanced
+71,47,Male,A+,2029-01-05,Community Center,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once per year,None,Yes,Regularly,Regular,Mediterranean
+72,30,Female,AB+,2029-02-12,Red Cross Center,13.1,108/70,71,98.2,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+73,43,Male,B-,2029-03-25,City Hospital,14.7,127/80,78,98.4,158,165,21,None,Whole Blood,420,Successful,12.6,155,Once per year,High Cholesterol,No,Occasionally,Regular,Balanced
+74,26,Female,A+,2029-04-02,Community Center,12.8,109/72,69,98.1,138,158,22,High Blood Pressure,Platelets,320,Successful,11.7,145,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+75,35,Male,AB+,2029-05-12,Red Cross Center,14.4,120/78,75,98.3,155,167,22,None,Whole Blood,420,Successful,13.1,165,Once per year,Diabetes,Yes,Regularly,Regular,Mediterranean
+76,29,Female,O-,2029-06-18,City Hospital,13.3,112/70,73,98.5,144,160,21,Anemia,Whole Blood,400,Successful,12.5,150,Once every 6 mos,None,No,Rarely,Regular,Balanced
+77,36,Male,A+,2029-07-02,Community Center,14.9,125/80,74,98.1,162,172,24,Anemia,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Mediterranean
+78,28,Female,O+,2029-08-10,Red Cross Center,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,No,Rarely,Regular,Vegetarian
+79,45,Male,A-,2029-09-05,City Hospital,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,High Blood Pressure,Yes,Regularly,Regular,Mediterranean
+80,31,Female,B+,2029-10-20,Community Center,12.9,105/70,68,98.3,120,150,19,Anemia,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+81,38,Male,O-,2029-11-15,Red Cross Center,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+82,27,Female,AB-,2029-12-02,City Hospital,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+83,46,Male,AB+,2030-01-05,Community Center,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+84,25,Female,O+,2030-02-12,Red Cross Center,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+85,33,Male,B+,2030-03-25,City Hospital,14.0,120/78,75,98.4,157,175,24,High Blood Pressure,Platelets,320,Successful,13.0,160,Once per year,Diabetes,Yes,Regularly,Irregular,Mediterranean
+86,39,Female,O-,2030-04-02,Community Center,12.5,105/68,70,98.0,130,155,19,None,Whole Blood,360,Successful,11.0,140,Once per year,None,No,Occasionally,Regular,Balanced
+87,47,Male,A+,2030-05-12,Red Cross Center,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once per year,None,Yes,Regularly,Regular,Mediterranean
+88,30,Female,AB+,2030-06-18,City Hospital,13.1,108/70,71,98.2,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+89,43,Male,B-,2030-07-02,Community Center,14.7,127/80,78,98.4,158,165,21,None,Whole Blood,420,Successful,12.6,155,Once per year,High Cholesterol,No,Occasionally,Regular,Balanced
+90,26,Female,A+,2030-08-10,Red Cross Center,12.8,109/72,69,98.1,138,158,22,High Blood Pressure,Platelets,320,Successful,11.7,145,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+91,35,Male,AB+,2030-09-05,City Hospital,14.4,120/78,75,98.3,155,167,22,None,Whole Blood,420,Successful,13.1,165,Once per year,Diabetes,Yes,Regularly,Regular,Mediterranean
+92,29,Female,O-,2030-10-20,Community Center,13.3,112/70,73,98.5,144,160,21,Anemia,Whole Blood,400,Successful,12.5,150,Once every 6 mos,None,No,Rarely,Regular,Balanced
+93,36,Male,A+,2030-11-15,Red Cross Center,14.9,125/80,74,98.1,162,172,24,Anemia,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Mediterranean
+94,28,Female,O+,2030-12-02,City Hospital,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,No,Rarely,Regular,Vegetarian
+95,45,Male,A-,2031-01-05,Community Center,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,High Blood Pressure,Yes,Regularly,Regular,Mediterranean
+96,31,Female,B+,2031-02-12,Red Cross Center,12.9,105/70,68,98.3,120,150,19,Anemia,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+97,38,Male,O-,2031-03-25,City Hospital,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+98,27,Female,AB-,2031-04-02,Community Center,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+99,46,Male,AB+,2031-05-12,Red Cross Center,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+100,25,Female,O+,2031-06-18,City Hospital,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+101,33,Male,B+,2031-07-25,Community Center,14.2,120/80,72,98.7,160,175,23,None,Whole Blood,450,Successful,13.5,170,Once per year,Diabetes,No,Rarely,Regular,Balanced
+102,28,Female,O-,2031-08-10,Red Cross Center,13.8,110/70,75,98.2,140,162,21,None,Platelets,300,Successful,12.8,150,Once per year,High Blood Pressure,Yes,Occasionally,Regular,Mediterranean
+103,42,Male,B+,2031-09-05,City Hospital,15.0,130/85,80,98.9,175,180,26,High Blood Pressure,Whole Blood,500,Successful,14.2,190,Once every 6 mos,High Cholesterol,No,Regularly,Regular,Balanced
+104,23,Female,A-,2031-10-15,Community Center,12.5,115/75,70,98.0,130,155,24,Anemia,Whole Blood,400,Rejected,11.7,140,Once per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+105,34,Male,AB+,2031-11-20,Red Cross Center,14.9,125/80,74,98.1,168,178,25,None,Whole Blood,450,Successful,13.8,180,Once per year,None,No,Occasionally,Regular,Mediterranean
+106,29,Female,O+,2031-12-25,City Hospital,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,Yes,Rarely,Regular,Vegetarian
+107,45,Male,A+,2032-01-30,Community Center,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,None,No,Regularly,Regular,Mediterranean
+108,31,Female,B-,2032-02-15,Red Cross Center,12.9,105/70,68,98.3,120,150,19,Anemia,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+109,38,Male,O-,2032-03-20,City Hospital,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+110,27,Female,AB-,2032-04-22,Community Center,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+111,46,Male,AB+,2032-05-30,Red Cross Center,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+112,25,Female,O+,2032-06-12,City Hospital,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+113,33,Male,B+,2032-07-25,Community Center,14.0,120/78,75,98.4,157,175,24,High Blood Pressure,Platelets,320,Successful,13.0,160,Once per year,Diabetes,Yes,Regularly,Irregular,Mediterranean
+114,39,Female,O-,2032-08-10,Red Cross Center,12.5,105/68,70,98.0,130,155,19,None,Whole Blood,360,Successful,11.0,140,Once per year,None,No,Occasionally,Regular,Balanced
+115,47,Male,A+,2032-09-05,City Hospital,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once per year,None,Yes,Regularly,Regular,Mediterranean
+116,30,Female,AB+,2032-10-15,Community Center,13.1,108/70,71,98.2,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+117,43,Male,B-,2032-11-20,Red Cross Center,14.7,127/80,78,98.4,158,165,21,None,Whole Blood,420,Successful,12.6,155,Once per year,High Cholesterol,No,Occasionally,Regular,Balanced
+118,26,Female,A+,2032-12-25,City Hospital,12.8,109/72,69,98.1,138,158,22,High Blood Pressure,Platelets,320,Successful,11.7,145,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+119,35,Male,AB+,2033-01-30,Community Center,14.4,120/78,75,98.3,155,167,22,None,Whole Blood,420,Successful,13.1,165,Once per year,Diabetes,Yes,Regularly,Regular,Mediterranean
+120,29,Female,O-,2033-02-15,Red Cross Center,13.3,112/70,73,98.5,144,160,21,Anemia,Whole Blood,400,Successful,12.5,150,Once every 6 mos,None,No,Rarely,Regular,Balanced
+121,36,Male,A+,2033-03-20,City Hospital,14.9,125/80,74,98.1,162,172,24,Anemia,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Mediterranean
+122,28,Female,O+,2033-04-22,Community Center,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,No,Rarely,Regular,Vegetarian
+123,45,Male,A-,2033-05-30,Red Cross Center,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,High Blood Pressure,Yes,Regularly,Regular,Mediterranean
+124,31,Female,B+,2033-06-12,Community Center,12.9,105/70,68,98.3,120,150,19,Anemia,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+125,38,Male,O-,2033-07-25,City Hospital,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+126,27,Female,AB-,2033-08-10,Community Center,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+127,46,Male,AB+,2033-09-05,Red Cross Center,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+128,25,Female,O+,2033-10-15,City Hospital,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+129,33,Male,B+,2033-11-20,Community Center,14.0,120/78,75,98.4,157,175,24,High Blood Pressure,Platelets,320,Successful,13.0,160,Once per year,Diabetes,Yes,Regularly,Irregular,Mediterranean
+130,39,Female,O-,2033-12-25,Red Cross Center,12.5,105/68,70,98.0,130,155,19,None,Whole Blood,360,Successful,11.0,140,Once per year,None,No,Occasionally,Regular,Balanced
+131,47,Male,A+,2034-01-30,City Hospital,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once per year,None,Yes,Regularly,Regular,Mediterranean
+132,30,Female,AB+,2034-02-15,Community Center,13.1,108/70,71,98.2,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+133,43,Male,B-,2034-03-20,Red Cross Center,14.7,127/80,78,98.4,158,165,21,None,Whole Blood,420,Successful,12.6,155,Once per year,High Cholesterol,No,Occasionally,Regular,Balanced
+134,26,Female,A+,2034-04-22,Community Center,12.8,109/72,69,98.1,138,158,22,High Blood Pressure,Platelets,320,Successful,11.7,145,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+135,35,Male,AB+,2034-05-30,Red Cross Center,14.4,120/78,75,98.3,155,167,22,None,Whole Blood,420,Successful,13.1,165,Once per year,Diabetes,Yes,Regularly,Regular,Mediterranean
+136,29,Female,O-,2034-06-12,City Hospital,13.3,112/70,73,98.5,144,160,21,Anemia,Whole Blood,400,Successful,12.5,150,Once every 6 mos,None,No,Rarely,Regular,Balanced
+137,36,Male,A+,2034-07-25,Community Center,14.9,125/80,74,98.1,162,172,24,Anemia,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Mediterranean
+138,28,Female,O+,2034-08-10,Red Cross Center,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,No,Rarely,Regular,Vegetarian
+139,45,Male,A-,2034-09-05,City Hospital,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,High Blood Pressure,Yes,Regularly,Regular,Mediterranean
+140,31,Female,B+,2034-10-15,Community Center,12.9,105/70,68,98.3,120,150,19,Anemia,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+141,38,Male,O-,2034-11-20,Red Cross Center,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+142,27,Female,AB-,2034-12-25,City Hospital,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+143,46,Male,AB+,2035-01-30,Community Center,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+144,25,Female,O+,2035-02-15,Red Cross Center,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+145,33,Male,B+,2035-03-20,City Hospital,14.0,120/78,75,98.4,157,175,24,High Blood Pressure,Platelets,320,Successful,13.0,160,Once per year,Diabetes,Yes,Regularly,Irregular,Mediterranean
+146,39,Female,O-,2035-04-22,Community Center,12.5,105/68,70,98.0,130,155,19,None,Whole Blood,360,Successful,11.0,140,Once per year,None,No,Occasionally,Regular,Balanced
+147,47,Male,A+,2035-05-30,Red Cross Center,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once per year,None,Yes,Regularly,Regular,Mediterranean
+148,30,Female,AB+,2035-06-12,City Hospital,13.1,108/70,71,98.2,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+149,43,Male,B-,2035-07-25,Community Center,14.7,127/80,78,98.4,158,165,21,None,Whole Blood,420,Successful,12.6,155,Once per year,High Cholesterol,No,Occasionally,Regular,Balanced
+150,26,Female,A+,2035-08-10,Red Cross Center,12.8,109/72,69,98.1,138,158,22,High Blood Pressure,Platelets,320,Successful,11.7,145,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+151,35,Male,AB+,2035-09-05,City Hospital,14.4,120/78,75,98.3,155,167,22,None,Whole Blood,420,Successful,13.1,165,Once per year,Diabetes,Yes,Regularly,Regular,Mediterranean
+152,29,Female,O-,2035-10-15,Community Center,13.3,112/70,73,98.5,144,160,21,Anemia,Whole Blood,400,Successful,12.5,150,Once every 6 mos,None,No,Rarely,Regular,Balanced
+153,36,Male,A+,2035-11-20,Red Cross Center,14.9,125/80,74,98.1,162,172,24,Anemia,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Mediterranean
+154,28,Female,O+,2035-12-25,City Hospital,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,No,Rarely,Regular,Vegetarian
+155,45,Male,A-,2036-01-30,Community Center,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,High Blood Pressure,Yes,Regularly,Regular,Mediterranean
+156,31,Female,B+,2036-02-15,Red Cross Center,12.9,105/70,68,98.3,120,150,19,Anemia,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+157,38,Male,O-,2036-03-20,City Hospital,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+158,27,Female,AB-,2036-04-22,Community Center,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+159,46,Male,AB+,2036-05-30,Red Cross Center,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+160,25,Female,O+,2036-06-12,City Hospital,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+161,33,Male,B+,2036-07-25,Community Center,14.0,120/78,75,98.4,157,175,24,High Blood Pressure,Platelets,320,Successful,13.0,160,Once per year,Diabetes,Yes,Regularly,Irregular,Mediterranean
+162,39,Female,O-,2036-08-10,Red Cross Center,12.5,105/68,70,98.0,130,155,19,None,Whole Blood,360,Successful,11.0,140,Once per year,None,No,Occasionally,Regular,Balanced
+163,47,Male,A+,2036-09-05,City Hospital,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once per year,None,Yes,Regularly,Regular,Mediterranean
+164,30,Female,AB+,2036-10-15,Community Center,13.1,108/70,71,98.2,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+165,43,Male,B-,2036-11-20,Red Cross Center,14.7,127/80,78,98.4,158,165,21,None,Whole Blood,420,Successful,12.6,155,Once per year,High Cholesterol,No,Occasionally,Regular,Balanced
+166,26,Female,A+,2036-12-25,City Hospital,12.8,109/72,69,98.1,138,158,22,High Blood Pressure,Platelets,320,Successful,11.7,145,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+167,35,Male,AB+,2037-01-30,Community Center,14.4,120/78,75,98.3,155,167,22,None,Whole Blood,420,Successful,13.1,165,Once per year,Diabetes,Yes,Regularly,Regular,Mediterranean
+168,29,Female,O-,2037-02-15,Red Cross Center,13.3,112/70,73,98.5,144,160,21,Anemia,Whole Blood,400,Successful,12.5,150,Once every 6 mos,None,No,Rarely,Regular,Balanced
+169,36,Male,A+,2037-03-20,City Hospital,14.9,125/80,74,98.1,162,172,24,Anemia,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Mediterranean
+170,28,Female,O+,2037-04-22,Community Center,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,No,Rarely,Regular,Vegetarian
+171,45,Male,A-,2037-05-30,Red Cross Center,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,High Blood Pressure,Yes,Regularly,Regular,Mediterranean
+172,31,Female,B+,2037-06-12,Community Center,12.9,105/70,68,98.3,120,150,19,Anemia,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+173,38,Male,O-,2037-07-25,City Hospital,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+174,27,Female,AB-,2037-08-10,Community Center,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+175,46,Male,AB+,2037-09-05,Red Cross Center,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+176,25,Female,O+,2037-10-15,City Hospital,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+177,33,Male,B+,2037-11-20,Community Center,14.0,120/78,75,98.4,157,175,24,High Blood Pressure,Platelets,320,Successful,13.0,160,Once per year,Diabetes,Yes,Regularly,Irregular,Mediterranean
+178,39,Female,O-,2037-12-25,Red Cross Center,12.5,105/68,70,98.0,130,155,19,None,Whole Blood,360,Successful,11.0,140,Once per year,None,No,Occasionally,Regular,Balanced
+179,47,Male,A+,2038-01-30,City Hospital,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once per year,None,Yes,Regularly,Regular,Mediterranean
+180,30,Female,AB+,2038-02-15,Community Center,13.1,108/70,71,98.2,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+181,43,Male,B-,2038-03-20,Red Cross Center,14.7,127/80,78,98.4,158,165,21,None,Whole Blood,420,Successful,12.6,155,Once per year,High Cholesterol,No,Occasionally,Regular,Balanced
+182,26,Female,A+,2038-04-22,Community Center,12.8,109/72,69,98.1,138,158,22,High Blood Pressure,Platelets,320,Successful,11.7,145,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+183,35,Male,AB+,2038-05-30,Red Cross Center,14.4,120/78,75,98.3,155,167,22,None,Whole Blood,420,Successful,13.1,165,Once per year,Diabetes,Yes,Regularly,Regular,Mediterranean
+184,29,Female,O-,2038-06-12,City Hospital,13.3,112/70,73,98.5,144,160,21,Anemia,Whole Blood,400,Successful,12.5,150,Once every 6 mos,None,No,Rarely,Regular,Balanced
+185,36,Male,A+,2038-07-25,Community Center,14.9,125/80,74,98.1,162,172,24,Anemia,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Mediterranean
+186,28,Female,O+,2038-08-10,Red Cross Center,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,No,Rarely,Regular,Vegetarian
+187,45,Male,A-,2038-09-05,City Hospital,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,High Blood Pressure,Yes,Regularly,Regular,Mediterranean
+188,31,Female,B+,2038-10-15,Community Center,12.9,105/70,68,98.3,120,150,19,Anemia,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+189,38,Male,O-,2038-11-20,Red Cross Center,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+190,27,Female,AB-,2038-12-25,City Hospital,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+191,46,Male,AB+,2039-01-30,Community Center,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+192,25,Female,O+,2039-02-15,Red Cross Center,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+193,33,Male,B+,2039-03-20,City Hospital,14.0,120/78,75,98.4,157,175,24,High Blood Pressure,Platelets,320,Successful,13.0,160,Once per year,Diabetes,Yes,Regularly,Irregular,Mediterranean
+194,39,Female,O-,2039-04-22,Community Center,12.5,105/68,70,98.0,130,155,19,None,Whole Blood,360,Successful,11.0,140,Once per year,None,No,Occasionally,Regular,Balanced
+195,47,Male,A+,2039-05-30,Red Cross Center,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once per year,None,Yes,Regularly,Regular,Mediterranean
+196,30,Female,AB+,2039-06-12,City Hospital,13.1,108/70,71,98.2,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+197,43,Male,B-,2039-07-25,Community Center,14.7,127/80,78,98.4,158,165,21,None,Whole Blood,420,Successful,12.6,155,Once per year,High Cholesterol,No,Occasionally,Regular,Balanced
+198,26,Female,A+,2039-08-10,Red Cross Center,12.8,109/72,69,98.1,138,158,22,High Blood Pressure,Platelets,320,Successful,11.7,145,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+199,35,Male,AB+,2039-09-05,City Hospital,14.4,120/78,75,98.3,155,167,22,None,Whole Blood,420,Successful,13.1,165,Once per year,Diabetes,Yes,Regularly,Regular,Mediterranean
+200,29,Female,O-,2039-10-15,Community Center,13.3,112/70,73,98.5,144,160,21,Anemia,Whole Blood,400,Successful,12.5,150,Once every 6 mos,None,No,Rarely,Regular,Balanced
+201,36,Male,A+,2039-11-20,Red Cross Center,14.9,125/80,74,98.1,162,172,24,Anemia,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Mediterranean
+202,28,Female,O+,2039-12-25,City Hospital,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,No,Rarely,Regular,Vegetarian
+203,45,Male,A-,2040-01-30,Community Center,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,High Blood Pressure,Yes,Regularly,Regular,Mediterranean
+204,31,Female,B+,2040-02-15,Red Cross Center,12.9,105/70,68,98.3,120,150,19,Anemia,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+205,38,Male,O-,2040-03-20,City Hospital,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+206,27,Female,AB-,2040-04-22,Community Center,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+207,46,Male,AB+,2040-05-30,Red Cross Center,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+208,25,Female,O+,2040-06-12,City Hospital,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+209,33,Male,B+,2040-07-25,Community Center,14.0,120/78,75,98.4,157,175,24,High Blood Pressure,Platelets,320,Successful,13.0,160,Once per year,Diabetes,Yes,Regularly,Irregular,Mediterranean
+210,39,Female,O-,2040-08-10,Red Cross Center,12.5,105/68,70,98.0,130,155,19,None,Whole Blood,360,Successful,11.0,140,Once per year,None,No,Occasionally,Regular,Balanced
+211,47,Male,A+,2040-09-05,City Hospital,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once per year,None,Yes,Regularly,Regular,Mediterranean
+212,30,Female,AB+,2040-10-15,Community Center,13.1,108/70,71,98.2,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+213,43,Male,B-,2040-11-20,Red Cross Center,14.7,127/80,78,98.4,158,165,21,None,Whole Blood,420,Successful,12.6,155,Once per year,High Cholesterol,No,Occasionally,Regular,Balanced
+214,26,Female,A+,2040-12-25,City Hospital,12.8,109/72,69,98.1,138,158,22,High Blood Pressure,Platelets,320,Successful,11.7,145,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+215,35,Male,AB+,2041-01-30,Community Center,14.4,120/78,75,98.3,155,167,22,None,Whole Blood,420,Successful,13.1,165,Once per year,Diabetes,Yes,Regularly,Regular,Mediterranean
+216,29,Female,O-,2041-02-15,Red Cross Center,13.3,112/70,73,98.5,144,160,21,Anemia,Whole Blood,400,Successful,12.5,150,Once every 6 mos,None,No,Rarely,Regular,Balanced
+217,36,Male,A+,2041-03-20,City Hospital,14.9,125/80,74,98.1,162,172,24,Anemia,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Mediterranean
+218,28,Female,O+,2041-04-22,Community Center,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,No,Rarely,Regular,Vegetarian
+219,45,Male,A-,2041-05-30,Red Cross Center,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,High Blood Pressure,Yes,Regularly,Regular,Mediterranean
+220,31,Female,B+,2041-06-12,Community Center,12.9,105/70,68,98.3,120,150,19,Anemia,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+221,38,Male,O-,2041-07-25,City Hospital,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+222,27,Female,AB-,2041-08-10,Community Center,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+223,46,Male,AB+,2041-09-05,Red Cross Center,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+224,25,Female,O+,2041-10-15,City Hospital,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+225,33,Male,B+,2041-11-20,Community Center,14.0,120/78,75,98.4,157,175,24,High Blood Pressure,Platelets,320,Successful,13.0,160,Once per year,Diabetes,Yes,Regularly,Irregular,Mediterranean
+226,39,Female,O-,2041-12-25,Red Cross Center,12.5,105/68,70,98.0,130,155,19,None,Whole Blood,360,Successful,11.0,140,Once per year,None,No,Occasionally,Regular,Balanced
+227,47,Male,A+,2042-01-30,City Hospital,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once per year,None,Yes,Regularly,Regular,Mediterranean
+228,30,Female,AB+,2042-02-15,Community Center,13.1,108/70,71,98.2,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+229,43,Male,B-,2042-03-20,Red Cross Center,14.7,127/80,78,98.4,158,165,21,None,Whole Blood,420,Successful,12.6,155,Once per year,High Cholesterol,No,Occasionally,Regular,Balanced
+230,26,Female,A+,2042-04-22,Community Center,12.8,109/72,69,98.1,138,158,22,High Blood Pressure,Platelets,320,Successful,11.7,145,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+231,35,Male,AB+,2042-05-30,Red Cross Center,14.4,120/78,75,98.3,155,167,22,None,Whole Blood,420,Successful,13.1,165,Once per year,Diabetes,Yes,Regularly,Regular,Mediterranean
+232,29,Female,O-,2042-06-12,City Hospital,13.3,112/70,73,98.5,144,160,21,Anemia,Whole Blood,400,Successful,12.5,150,Once every 6 mos,None,No,Rarely,Regular,Balanced
+233,36,Male,A+,2042-07-25,Community Center,14.9,125/80,74,98.1,162,172,24,Anemia,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Mediterranean
+234,28,Female,O+,2042-08-10,Red Cross Center,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,No,Rarely,Regular,Vegetarian
+235,45,Male,A-,2042-09-05,City Hospital,14.5,128/82,76,98.4,162,175,24,High Blood Pressure,Platelets,300,Rejected,13.2,165,Once per year,High Blood Pressure,Yes,Regularly,Regular,Mediterranean
+236,31,Female,B+,2042-10-15,Community Center,12.9,105/70,68,98.3,120,150,19,Anemia,Whole Blood,400,Successful,11.4,130,Once every 6 mos,High Blood Pressure,No,Rarely,Regular,Balanced
+237,38,Male,O-,2042-11-20,Red Cross Center,13.7,118/78,73,98.7,155,168,19,Anemia,Whole Blood,450,Successful,12.5,160,Once per year,High Cholesterol,No,Occasionally,Regular,Vegetarian
+238,27,Female,AB-,2042-12-25,City Hospital,15.2,130/85,79,98.9,170,175,24,High Blood Pressure,Whole Blood,500,Successful,14.6,185,Twice per year,None,No,Regularly,Irregular,Mediterranean
+239,46,Male,AB+,2043-01-30,Community Center,14.6,123/80,76,98.5,160,170,23,Anemia,Whole Blood,480,Successful,13.4,175,Once per year,High Cholesterol,Yes,Occasionally,Regular,Mediterranean
+240,25,Female,O+,2043-02-15,Red Cross Center,13.3,110/70,70,98.2,135,162,21,None,Whole Blood,380,Successful,12.2,150,Once every 6 mos,None,No,Rarely,Regular,Vegetarian
+241,33,Male,B+,2043-03-20,City Hospital,14.0,120/78,75,98.4,157,175,24,High Blood Pressure,Platelets,320,Successful,13.0,160,Once per year,Diabetes,Yes,Regularly,Irregular,Mediterranean
+242,39,Female,O-,2043-04-22,Community Center,12.5,105/68,70,98.0,130,155,19,None,Whole Blood,360,Successful,11.0,140,Once per year,None,No,Occasionally,Regular,Balanced
+243,47,Male,A+,2043-05-30,Red Cross Center,14.8,126/80,77,98.6,170,178,24,Anemia,Whole Blood,430,Successful,13.6,180,Once per year,None,Yes,Regularly,Regular,Mediterranean
+244,30,Female,AB+,2043-06-12,City Hospital,13.1,108/70,71,98.2,140,165,19,Anemia,Whole Blood,380,Successful,11.9,135,Once every 6 mos,High Blood Pressure,Yes,Rarely,Regular,Vegetarian
+245,43,Male,B-,2043-07-25,Community Center,14.7,127/80,78,98.4,158,165,21,None,Whole Blood,420,Successful,12.6,155,Once per year,High Cholesterol,No,Occasionally,Regular,Balanced
+246,26,Female,A+,2043-08-10,Red Cross Center,12.8,109/72,69,98.1,138,158,22,High Blood Pressure,Platelets,320,Successful,11.7,145,Twice per year,High Blood Pressure,Yes,Rarely,Regular,Regular
+247,35,Male,AB+,2043-09-05,City Hospital,14.4,120/78,75,98.3,155,167,22,None,Whole Blood,420,Successful,13.1,165,Once per year,Diabetes,Yes,Regularly,Regular,Mediterranean
+248,29,Female,O-,2043-10-15,Community Center,13.3,112/70,73,98.5,144,160,21,Anemia,Whole Blood,400,Successful,12.5,150,Once every 6 mos,None,No,Rarely,Regular,Balanced
+249,36,Male,A+,2043-11-20,Red Cross Center,14.9,125/80,74,98.1,162,172,24,Anemia,Whole Blood,450,Successful,13.8,180,Once per year,None,Yes,Occasionally,Regular,Mediterranean
+250,28,Female,O+,2043-12-25,City Hospital,13.0,112/68,78,98.5,145,160,19,Anemia,Whole Blood,350,Successful,11.9,135,Twice per year,None,No,Rarely,Regular,Vegetarian
